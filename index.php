@@ -2,7 +2,7 @@
 <html>
     <head>
         <title>
-            Power Gate Test code base on Searchin
+            The text search
         </title>
         <link href="style.css" type='text/css' rel="stylesheet" />
         <script type="text/javascript" src="jquery-3.1.1.min.js"></script>
