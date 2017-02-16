@@ -1,0 +1,36 @@
+body {
+  background-image: url("clock-parts-on-old-paper.jpg");
+  background-color: #cccccc;
+  background-size:100%;
+}
+.hidden {
+    display: none;
+}
+.alert {
+    color: red;
+}
+h3 { text-align: center }
+.wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 800px;
+}
+#sub-string {
+    width: 400px;
+}
+#main-string {
+    width: 400px;
+    height: 200px;
+}
+label {
+    display: block;
+    float: left;
+    min-width: 100px;
+    width: 150px;
+}
+button {
+    margin-left: 15px;
+}
+.search-wrapper {
+    text-align: left;
+}
